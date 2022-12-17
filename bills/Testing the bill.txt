@@ -1,0 +1,6 @@
+Bill breakdown: 
+First Item:               ...$20.02 
+Second Item:              ...$7.81 
+Third Item:               ...$3 
+tip:                      ...$5.00 
+total:                    ...$35.83
